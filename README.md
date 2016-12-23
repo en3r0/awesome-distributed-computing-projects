@@ -8,6 +8,7 @@
 
 **A curated list of amazingly awesome open source distributed resources.** Please read [CONTRIBUTING](./CONTRIBUTING.md)
 
+Related Subreddits: [r/decentralizeweb/](https://www.reddit.com/r/decentralizeweb/), [r/homelab/](https://www.reddit.com/r/homelab/), [r/sysadmin/](https://www.reddit.com/r/sysadmin/), [r/DataHoarder/](https://www.reddit.com/r/DataHoarder/), [r/darknetplan/](https://www.reddit.com/r/darknetplan/)
 
 ## Bandwidth
 Bandwidth Intensive
@@ -35,7 +36,7 @@ Torrents
 
 
 ## CPU / GPU
-CPU / GPU Intensive*
+CPU / GPU Intensive
 
 * [distributed.net](http://www.distributed.net/) - Currently two different projects, one of the largest and oldest distributed compute projects. Uses idle time.
 * [BOINC](https://boinc.berkeley.edu/index.php) - Many different projects, one appplication. Uses idle time.
