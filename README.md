@@ -22,7 +22,7 @@ Bandwidth Intensive
 * [MaidSafe](https://maidsafe.net/) - Peer-to-peer internet.
 * [OpenNIC Project](https://www.opennicproject.org/) - Alternative DNS, new TLDs.
 * [Namecoin](https://namecoin.org/) - Alternative blockain DNS, uses .bit TLD.
-* [YaCy]http://yacy.net/en/index.html - Decentralized search engine.
+* [YaCy](http://yacy.net/en/index.html) - Decentralized search engine.
 
 Torrents
 * [Linuxtracker](http://linuxtracker.org/) - Linux ISOs.
@@ -39,7 +39,7 @@ CPU / GPU Intensive*
 
 * [distributed.net](http://www.distributed.net/) - Currently two different projects, one of the largest and oldest distributed compute projects. Uses idle time.
 * [BOINC](https://boinc.berkeley.edu/index.php) - Many different projects, one appplication. Uses idle time.
-https://en.wikipedia.org/wiki/List_of_distributed_computing_projects
+Many others can be found here: https://en.wikipedia.org/wiki/List_of_distributed_computing_projects
 
 "Mining"
 * [Bitcoin](https://bitcoin.org/en/) - Digital Currency - Mining node searches for currency.
