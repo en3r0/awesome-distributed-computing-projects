@@ -40,14 +40,14 @@ CPU / GPU Intensive
 
 * [distributed.net](http://www.distributed.net/) - Currently two different projects, one of the largest and oldest distributed compute projects. Uses idle time.
 * [BOINC](https://boinc.berkeley.edu/index.php) - Many different projects, one appplication. Uses idle time.
-Many others can be found here: https://en.wikipedia.org/wiki/List_of_distributed_computing_projects
+* Many others can be found here: https://en.wikipedia.org/wiki/List_of_distributed_computing_projects
 
 "Mining"
 * [Bitcoin](https://bitcoin.org/en/) - Digital Currency - Mining node searches for currency.
 * [Ethereum](https://www.ethereum.org/) - Digital Currency - Mining node searches for currency.
 * [Litecoin](https://litecoin.org) - Digital Currency - Mining node searches for currency.
 * [Dash](https://www.dash.org/) - Digital Currency - Mining node searches for currency.
-Many others can be found here: https://coinmarketcap.com/
+* Many others can be found here: https://coinmarketcap.com/
 
 
 ## Disk
