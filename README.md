@@ -58,3 +58,20 @@ Disk Intensive
 * [Storj](https://storj.io/) - Blockchain based distributed cloud storage.
 * [Sia](http://sia.tech/) - Blockchain based distributed cloud storage.
 * [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Free and Open decentralized cloud storage system.
+
+## Hosting
+ A decentralization of hostings(GitHub, GitLab, Bitbucket etc) using BitTorrent and Bitcoin
+- [cjb/GitTorrent](https://github.com/cjb/GitTorrent): A decentralization of GitHub using BitTorrent and Bitcoin
+
+## Search engine
+Distributed search engines using BitTorrent and SQLite or any database
+- [lmatteis/torrent-net](https://github.com/lmatteis/torrent-net): Distributed search engines using BitTorrent and SQLite
+
+## Trackers
+A BitTorrent tracker is a special type of server that assists in the communication between peers using the BitTorrent protocol.
+- [legittorrents.info](https://github.com/en3r0/legittorrents.info): I started Legit Torrents in the Fall of 2005. I was still in high school and back then there was no 100% legal torrent tracker that anyone could easily submit to. There was legaltorrents.com, but if memory serves me correctly, it was more of a curated thing.
+
+## Deploy
+Large scale server deploys using BitTorrent and the BitTornado library
+- [lg/murder](https://github.com/lg/murder): Large scale server deploys using BitTorrent and the BitTornado library (NOTE: project no longer maintained)
+- [russss/Herd](https://github.com/russss/Herd): A single-command bittorrent distribution system, based on Twitter's Murder
