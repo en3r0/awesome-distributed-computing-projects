@@ -16,7 +16,7 @@ A curated list of amazingly awesome open source distributed resources. There are
 
 ## Distributed computing projects
 ***Alternative DNS(Domain name service)***
-* Magiclink:
+* DNSLink for mapping domains to torrents
 * [Namecoin](https://namecoin.org/): Alternative blockain DNS, uses .bit TLD.
 * [OpenNIC Project](https://www.opennicproject.org/): Alternative DNS, new TLDs.
 
