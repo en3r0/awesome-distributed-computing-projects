@@ -23,15 +23,15 @@ A curated list of amazingly awesome open source distributed resources. There are
 ***Bandwidth***
 * [MaidSafe](https://maidsafe.net/): Peer-to-peer internet.
   
-***Communities***
+***Communities and projects***
 * [BOINC](https://boinc.berkeley.edu/index.php): Many different projects, one appplication. Uses idle time.
-* [Decentralize Web](https://www.reddit.com/r/decentralizeweb/):
-* [DataHoarder](https://www.reddit.com/r/DataHoarder):
-* [DarknetPlan](https://www.reddit.com/r/darknetplan):
+* [Decentralize Web](https://www.reddit.com/r/decentralizeweb/): A place for discussion of the decentralization of web technologies.
+* [DataHoarder](https://www.reddit.com/r/DataHoarder): This is a sub that aims at bringing data hoarders together to share their passion with like minded people.
+* [DarknetPlan](https://www.reddit.com/r/darknetplan): Decentralized peer-to-peer (p2p) chat app that uses end-to-end encryption
 * [Distributed.net](http://www.distributed.net/): Currently two different projects, one of the largest and oldest distributed compute projects. Uses idle time.
 * [Distributed_computing_projects](https://en.wikipedia.org/wiki/List_of_distributed_computing_projects): Many others can be found here
-* [Homelab](https://www.reddit.com/r/homelab/):
-* [Sysadmin](https://www.reddit.com/r/sysadmin/):
+* [Homelab](https://www.reddit.com/r/homelab/): Where techies and sysadmin from everywhere are welcome to share their labs, projects, builds, etc.
+* [Sysadmin](https://www.reddit.com/r/sysadmin/): A reddit dedicated to the profession of Computer System Administration.
 
 ***Censorship-resistant communication and publishing***
 * [cjb/GitTorrent](https://github.com/cjb/GitTorrent): A decentralization of GitHub using BitTorrent and Bitcoin
