@@ -7,21 +7,12 @@
 # Awesome distributed computing projects [![certified awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of amazingly awesome open source distributed resources. There are a number of good reasons to avoid centralized networks or consider something other than centralized networks:
-- Bandwidth
-- CPU / GPU Intensive
-- Backup
-- Search engines
-- Synchronize the clocks of computers over a network
-- Storage
-- Databases
-- Data dump
-- Censorship-resistant communication and publishing
+- Bandwidth, Backup, CPU / GPU Intensive, Data dump
+- Databases, Storage, Search engines, Censorship-resistant communication and publishing
 - Digital Currency, "Mining", Mining node searches for currency
-- Synchronize the clocks of computers over a network
-- Large scale server deploys
-- Disk Intensive
+- Uses idle time, Large scale server deploys, Disk Intensive
 - Many different projects, one appplication
-- Uses idle time
+- Synchronize the clocks of computers over a network
 
 ## Distributed computing projects
 ***Alternative DNS(Domain name service)***
