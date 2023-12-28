@@ -22,9 +22,15 @@ A curated list of amazingly awesome open source distributed resources. There are
 
 ***Bandwidth***
 * [MaidSafe](https://maidsafe.net/): Peer-to-peer internet.
-  
+
 ***Communities and projects***
+* [Awesome Bittorrent Tools](https://github.com/BTTBoost/awesome-bittorrent-tools): Collection of useful tools.
+* [Awesome Community](https://github.com/SouJunior/awesome-community): List of Brazilian technology communities(for social freedom) that have synergy with the @SouJunior community
+* [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances): This repo was created to help users migrate from reddit to lemmy (a federated reddit alternative).
+* [Awesome Local-First](https://github.com/schickling/awesome-local-first): A collection of awesome local-first projects including offline-first and collaboration functionality
+* [Awesome Stuffs](https://github.com/glxmath/awesome-stuffs): BitTorrent stuff on the internet, like games, movies, books, and other things, get updated all randomly and stuff.
 * [BOINC](https://boinc.berkeley.edu/index.php): Many different projects, one appplication. Uses idle time.
+* [BTIPs](https://github.com/bittorrent/BTIPs): BitTorrent File System Improvement Proposals (BTIPs) describe standards for the BTFS platform, including core protocol specifications and client APIs.
 * [Decentralize Web](https://www.reddit.com/r/decentralizeweb/): A place for discussion of the decentralization of web technologies.
 * [DataHoarder](https://www.reddit.com/r/DataHoarder): This is a sub that aims at bringing data hoarders together to share their passion with like minded people.
 * [DarknetPlan](https://www.reddit.com/r/darknetplan): Decentralized peer-to-peer (p2p) chat app that uses end-to-end encryption
@@ -35,7 +41,12 @@ A curated list of amazingly awesome open source distributed resources. There are
 
 ***Censorship-resistant communication and publishing***
 * [cjb/GitTorrent](https://github.com/cjb/GitTorrent): A decentralization of GitHub using BitTorrent and Bitcoin
+* [Dspinellis/git-issue](https://github.com/dspinellis/git-issue): Git-based decentralized issue management
+* [Nullconst/Bog](https://github.com/nullconst/bog): Blockchain over Git
+* [S4](https://github.com/anthonybudd/S4): S4 is 100% S3 compatible storage, accessed through Tor and distributed using IPFS.
 * [Freenet](https://freenetproject.org/): Peer-to-peer platform for censorship-resistant communication and publishing.
+* [Glogiotatidis/Gitissius](https://github.com/glogiotatidis/gitissius): Distributed Issue Tracking for GIT
+* [HowCodeORG/Simple-Python-Blockchain](https://github.com/howCodeORG/Simple-Python-Blockchain):
 * [I2P](https://geti2p.net/en/): Anonymous overlay network.
 * [Tor](https://www.torproject.org/): Routes traffic between nodes to hide identy. An exit node can put you at risk, but you run a relay node only.
 * [ZeroNet](https://zeronet.io/): Peer-to-peer websites.
@@ -98,14 +109,20 @@ A curated list of amazingly awesome open source distributed resources. There are
 
 **Trackers:** A BitTorrent tracker is a special type of server that assists in the communication between peers using the BitTorrent protocol.
 
-# ❤ Contributions
+## ❤ Contributions
 awesome-distributed-computing-projects is open to contributions, but I recommend creating an issue or replying in a comment to let me know what you are working on first that way we don't overwrite each other.
 
 Please read CONTRIBUTING.md for details on this project. If you have any questions, feel free to open an issue. And feel free to improve this list by contributing!
  
-# 📑 License
+## 📑 License
 Inspired by the awesome list.
 
 awesome-distributed-computing-projects is licensed with Creative Commons Attribution-ShareAlike 4.0 International Public License by en3r0 and contributors
 
 The logo of this project is authored, created or licensed by the communities and open source projects, but has no direct relationship with this repository
+
+## Related projects
+- [TheAnalyst/Awesome-Distributed-Systems](https://github.com/theanalyst/awesome-distributed-systems): A curated list to learn about distributed systems
+- [Rshetty/Awesome-Distributed-Systems](https://github.com/rShetty/awesome-distributed-systems): Awesome list of distributed systems resources
+- [ZhenloHuang/Awesome-Distributed-Systems](https://github.com/zhenlohuang/awesome-distributed-systems): A curated list of awesome distributed systems books, papers, resources and shiny things.
+- [Gojek/Awesome-Distributed-Systems](https://github.com/gojek/awesome-distributed-systems): Awesome list of distributed systems resources
