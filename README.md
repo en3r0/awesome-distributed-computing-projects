@@ -70,6 +70,7 @@ A curated list of amazingly awesome open source distributed resources. There are
 * [IPFS](https://ipfs.io/): Peer-to-peer hypermedia protocol.
 * [Storj](https://storj.io/): Blockchain based distributed cloud storage.
 * [Sia](http://sia.tech/): Blockchain based distributed cloud storage.
+* [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain that rewards vintage hardware. Old computers earn more than new ones.
 * [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs): Free and Open decentralized cloud storage system.
   
 ***Indexers***
