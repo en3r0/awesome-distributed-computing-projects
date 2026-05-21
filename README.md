@@ -57,6 +57,7 @@ A curated list of amazingly awesome open source distributed resources. There are
 * [coinmarketcap](https://coinmarketcap.com/): Many others can be found here
 * [Ethereum](https://www.ethereum.org/): non-mining node only sends ledger information.
 * [Litecoin](https://litecoin.org): Mining node searches for currency.
+* [ZGC](https://github.com/0riginal-claw/zgc): Lightweight Python PoS chain (stdlib only). Every laptop is a full validator node — runs on Raspberry Pi. MIT licensed.
 
 ***Deploy***
 - [lg/murder](https://github.com/lg/murder): Large scale server deploys using BitTorrent and the BitTornado library (NOTE: project no longer maintained)
