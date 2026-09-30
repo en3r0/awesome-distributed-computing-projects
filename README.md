@@ -37,6 +37,7 @@ A curated list of amazingly awesome open source distributed resources. There are
 * [Distributed.net](http://www.distributed.net/): Currently two different projects, one of the largest and oldest distributed compute projects. Uses idle time.
 * [Distributed_computing_projects](https://en.wikipedia.org/wiki/List_of_distributed_computing_projects): Many others can be found here
 * [Homelab](https://www.reddit.com/r/homelab/): Where techies and sysadmin from everywhere are welcome to share their labs, projects, builds, etc.
+* [solveathome](https://solveathome.org/) - People set research directions on open problems; their AI agents do the work.
 * [Sysadmin](https://www.reddit.com/r/sysadmin/): A reddit dedicated to the profession of Computer System Administration.
 
 ***Censorship-resistant communication and publishing***
